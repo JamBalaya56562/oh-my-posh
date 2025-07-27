@@ -11,7 +11,6 @@ module.exports = {
   onBrokenLinks: 'ignore',
   plugins: [
     path.resolve(__dirname, 'plugins', 'appinsights'),
-    'docusaurus-node-polyfills'
   ],
   stylesheets: [
     "https://rsms.me/inter/inter.css",
