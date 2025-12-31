@@ -2765,7 +2765,7 @@
                     "type": "string",
                     "title": "FreeBSD Icon",
                     "description": "The icon to use for FreeBSD",
-                    "default": "\\U000f08e0"
+                    "default": "\udb82\udce0"
                   },
                   "gentoo": {
                     "type": "string",
@@ -2777,7 +2777,7 @@
                     "type": "string",
                     "title": "Kali Icon",
                     "description": "The icon to use for Kali",
-                    "default": "\\uf327"
+                    "default": "\uf327"
                   },
                   "mageia": {
                     "type": "string",
@@ -2795,13 +2795,13 @@
                     "type": "string",
                     "title": "Mint Icon",
                     "description": "The icon to use for Mint",
-                    "default": "\uf30e"
+                    "default": "\udb82\udced"
                   },
                   "neon": {
                     "type": "string",
                     "title": "Neon Icon",
                     "description": "The icon to use for Neon",
-                    "default": "\\uf331"
+                    "default": "\uf331"
                   },
                   "nixos": {
                     "type": "string",
@@ -2873,7 +2873,7 @@
                     "type": "string",
                     "title": "Android Icon",
                     "description": "The icon to use for Android",
-                    "default": "\\ue70e"
+                    "default": "\ue70e"
                   }
                 },
                 "additionalProperties": false
