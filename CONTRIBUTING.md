@@ -33,7 +33,7 @@ Fish and PowerShell, the latter of which is the default.
 
 ### Configuring Devcontainer's Timezone & Theme
 
-1. Open the `.devcontainer/devcontainer.json` file and in the "*build*" section modify:
+1. Open the [`.devcontainer/devcontainer.json`][devcontainer] file and in the "*build*" section modify:
 
    - `TZ`: with [your own timezone][timezones]
 
@@ -81,4 +81,5 @@ go test "./..."
 [codespaces-link]: <https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=175405157>
 [devcontainer-ext]: <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers>
 [timezones]: <https://en.wikipedia.org/wiki/List_of_tz_database_time_zones>
+[devcontainer]: .devcontainer/devcontainer.json
 [go.mod]: src/go.mod
